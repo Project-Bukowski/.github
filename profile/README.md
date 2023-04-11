@@ -1,35 +1,37 @@
-Project - NameProject:
-	FrontEnd - React
-	BackEnd - .Net 6
-	Serviço - Python 
 
-Tools:
-	VsCode / Fleet
-	Slack / Notion / ClickUp / Trello / GitHub
-        Figma
- 
-Description:
-	Plataforma para trabalhar diferentes projetos com servicos python.
+# Bukowski
 
-Front: 
-	Screens
-		Home
-		Login
-		Register
-		Main - Logado
-		
-Tasks-Homework:
-	Criar repositorio/projeto no github ( Wladson )
-	Criar ambiente de gerenciamento do projeto ( Wladson )
+Aqui nos colocaremos uma descricao do projeto.
 
-Tasks-InMeeting:
-	Criar prototipo no figma ( Wladson e Heron )
-	Testar gerenciamento no GitHub
-	Criar as tasks de desenvolvimento
 
-Meetings:
-	Default:
-		Review Tasks-Homework
-		Tasks-InMeeting
-		Define the next tasks
-		Define the next meeting
+
+## 🛠 Tools
+- React.js
+- .Net 6
+- Dapper
+- GitHub Project
+- Material Design
+- Figma ( Design )
+- Swagger
+- Web API
+
+
+## Stack utilizada
+
+**Front-end:** React.js
+
+**Back-end:** Web API - .Net 6
+
+**Service:** Python 3.10
+
+
+## Uso/Exemplos
+
+```javascript
+import Component from 'bukowski-project'
+
+function App() {
+  return <Component />
+}
+```
+
